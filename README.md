@@ -10,7 +10,7 @@ Hello, I'm Taylor. I have deep passion for data analysis, database design, query
 
 ### :books: Projects
 
-My portfolio is here, where I showcase my projects.
+My portfolio is here, where I showcase my [projects](https://github.com/Tlcke77/Porfolio-Guide/blob/main/README.md).
 
 ---
 
