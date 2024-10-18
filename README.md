@@ -1,16 +1,27 @@
-## Hi there 👋
+## :round_pushpin: About Me
 
-<!--
-**Tlcke77/Tlcke77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Taylor. I have deep passion for data analysis, database design, query optimization,  and data modeling. My mission is to leverage data to answer crucial business questions and drive informed decision-making.
 
-Here are some ideas to get you started:
+* Querying data using SQL.
+* Generate reports and perform ad-hoc data analysis using SQL.
+* Developing dashboards on Tableau and Power BI.
+* Data analysis and reporting using python and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :books: Projects
+
+My portfolio is here, where I showcase my projects.
+
+---
+
+### 🧰 Languages and Tools
+
+          
+<img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
+<img align="left" alt="POST" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />          
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br />
+
+#
