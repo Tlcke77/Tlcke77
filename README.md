@@ -1,3 +1,5 @@
+
+<img src="https://github.com/user-attachments/assets/8182b014-0033-43e3-8aa5-8de1162f8ddf" alt="giphy" width="1200" height="300">
 ## :round_pushpin: About Me
 
 Hello, I'm Taylor. I have deep passion for data analysis, database design, query optimization,  and data modeling. My mission is to leverage data to answer crucial business questions and drive informed decision-making.
@@ -24,3 +26,5 @@ My portfolio is here, where I showcase my [projects](https://github.com/Tlcke77/
 <br />
 
 #
+
+
